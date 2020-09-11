@@ -1,5 +1,5 @@
 
-#Cómo analizar resultados de auditorías en R
+# Cómo analizar resultados de auditorías en R
 
 ### 📦 Acerca de este repositorio
 
