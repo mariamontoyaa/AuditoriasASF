@@ -31,8 +31,8 @@ RScript para limpiar la base de datos, generar variables relacionadas con posibl
 
 Para más información sobre la ASF y el portal ASFDatos sirve consultar los siguientes enlaces: 
 
-- [ASF: ¿Qué hacemos y cómo lo hacemos?](https://www.notion.so/mariamontoya/README-0454d4bb81424f749eaed3ef9ed950e3#2a88339315fd4dddb6b0810328f2bd3d)
-- [Guia de uso del Sistema Público de Consulta de Auditorías](https://www.notion.so/mariamontoya/README-0454d4bb81424f749eaed3ef9ed950e3#9e12f68840394cd4a79cf8981810c8c7)
-- [Preguntas frecuentes sobre la ASF](https://www.notion.so/mariamontoya/README-0454d4bb81424f749eaed3ef9ed950e3#2f3c75b128ca4b519dfe3d6acd39af68)
-- [Acerca de la ASF](https://www.notion.so/mariamontoya/README-0454d4bb81424f749eaed3ef9ed950e3#a0f2261716664e19936a72d49d0495c2)
+- [ASF: ¿Qué hacemos y cómo lo hacemos?](https://www.asf.gob.mx/Section/52_Que_hacemos_y_como_lo_hacemos)
+- [Guia de uso del Sistema Público de Consulta de Auditorías](https://www.youtube.com/watch?v=W5PUTtx1JOM)
+- [Preguntas frecuentes sobre la ASF](https://www.asf.gob.mx/Section/84_Preguntas_Frecuentes)
+- [Acerca de la ASF](https://www.asf.gob.mx/Section/45_Acerca_de_la_ASF)
 
